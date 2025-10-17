@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1,
+        "Nome": "Roberto",
+        "Balanco": 20.0
+    },
+    {
+        "ID": 2,
+        "Nome": "Cristina",
+        "Balanco": 130.0
+    },
+    {
+        "ID": 3,
+        "Nome": "Meire",
+        "Balanco": 100.0
+    }
+]

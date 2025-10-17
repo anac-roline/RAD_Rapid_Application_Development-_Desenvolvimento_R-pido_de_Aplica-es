@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "Carla",
+    "matricula": "14292377",
+    "nota": 9.5
+  },
+  {
+    "nome": "Ana",
+    "matricula": "40092112",
+    "nota": 4.0
+  },
+  {
+    "nome": "Pedro",
+    "matricula": "67683795",
+    "nota": 7.3
+  },
+  {
+    "nome": "Miguel",
+    "matricula": "88610905",
+    "nota": 4.5
+  },
+  {
+    "nome": "Julia",
+    "matricula": "94772253",
+    "nota": 2.6
+  },
+  {
+    "nome": "Julia",
+    "matricula": "16500536",
+    "nota": 9.8
+  },
+  {
+    "nome": "Gustavo",
+    "matricula": "28333205",
+    "nota": 2.7
+  },
+  {
+    "nome": "Pedro",
+    "matricula": "68464304",
+    "nota": 3.3
+  },
+  {
+    "nome": "Camila",
+    "matricula": "46380539",
+    "nota": 5.4
+  },
+  {
+    "nome": "Fabrício",
+    "matricula": "57074964",
+    "nota": 8.4
+  },
+  {
+    "nome": "Fernanda",
+    "matricula": "57828204",
+    "nota": 4.2
+  },
+  {
+    "nome": "Miguel",
+    "matricula": "69053261",
+    "nota": 9.3
+  },
+  {
+    "nome": "Tiago",
+    "matricula": "32046246",
+    "nota": 7.7
+  },
+  {
+    "nome": "Livia",
+    "matricula": "37754827",
+    "nota": 7.5
+  },
+  {
+    "nome": "Miguel",
+    "matricula": "52195928",
+    "nota": 5.9
+  },
+  {
+    "nome": "Carla",
+    "matricula": "68782145",
+    "nota": 1.3
+  },
+  {
+    "nome": "Camila",
+    "matricula": "46588820",
+    "nota": 4.8
+  },
+  {
+    "nome": "Larissa",
+    "matricula": "20920255",
+    "nota": 1.8
+  },
+  {
+    "nome": "Tiago",
+    "matricula": "31656052",
+    "nota": 5.1
+  },
+  {
+    "nome": "Rafael",
+    "matricula": "82584806",
+    "nota": 6.4
+  }
+]

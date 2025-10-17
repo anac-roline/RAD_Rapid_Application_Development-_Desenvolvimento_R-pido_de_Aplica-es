@@ -1,0 +1,1 @@
+f = open("meu_primeiro_arquivo:).txt", "x")
